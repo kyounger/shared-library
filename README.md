@@ -1,0 +1,1 @@
+Basic shared library.
